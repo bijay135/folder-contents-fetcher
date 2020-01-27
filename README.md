@@ -1,5 +1,6 @@
 # Folder Contents Feather For Windows
 - This program will only fetch files, folders are ignored
+- Each file will be seperated with a delemiter comma `,`
 
 # Technologies Used
 - Powershell Scripting
