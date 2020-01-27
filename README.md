@@ -1,4 +1,4 @@
-# Folder Contents Feather For Windows
+# Folder Contents Fetcher For Windows
 - This program will only fetch files, folders are ignored
 - Each file will be seperated with a delemiter comma `,`
 
