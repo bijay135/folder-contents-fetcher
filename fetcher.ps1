@@ -6,7 +6,7 @@ Get-ChildItem -Path $path -Attribute !D | %{
     if($count -eq $column){
         write-output "$($_.Name),`n" 
         $count = 1
-     }
+    }
     else {
          write-output "$($_.Name),"
          $count++;
