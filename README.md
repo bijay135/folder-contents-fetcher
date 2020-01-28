@@ -11,5 +11,5 @@
 - Extract the zip contents, make sure all the files are in same folder
 - Open the run-program.bat file
 - Enter the full path of the folder example: `D:\folder`
-- Enter the number of columns you want per line example `5'
+- Enter the number of columns you want per line example `5`
 - The program will run and save all the filenames to `folder-contents.txt`
