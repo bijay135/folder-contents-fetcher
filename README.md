@@ -1,6 +1,7 @@
 # Folder Contents Fetcher For Windows
 - This program will only fetch files, folders are ignored
 - Each file will be seperated with a delemiter comma `,`
+- The number of columns per line can be defined
 
 # Technologies Used
 - Powershell Scripting
@@ -9,4 +10,5 @@
 # How to use
 - Open the run-program.bat file
 - Enter the full path of the folder example: `C:\folder`
+- Enter the number of columns you want per line example `5'
 - The program will run and save all the filenames to `folder-contents.txt`
